@@ -31,7 +31,7 @@ BERGS;Berglunds snabbköp;Christina Berglund;Order Administrator;Berguvsvägen  
 */
         //-> /File
 
-        //-> This file contains<b> three</b> record types; Customers(begins with letters, | delimited), Orders(begin with numbers, ';' delimited) and the sample type of the first example.
+        //-> This file contains<b> three</b> record types; Customers(begins with letters, ";" delimited), Orders(begin with numbers, "|"" delimited) and the sample type of the first example.
 
 
         //-> File:Customer.cs
